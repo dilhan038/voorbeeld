@@ -1,2 +1,0 @@
-# voorbeeld
-voorbeeldproject
